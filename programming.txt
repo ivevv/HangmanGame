@@ -1,0 +1,50 @@
+code
+computer
+system
+data
+memory
+file
+program
+algorithm
+user
+input
+output
+operator
+function
+data type
+integer
+number
+expression
+symbol
+text
+line
+string
+array
+element
+sorting
+search
+bubble
+shaker
+comb
+insert
+quick
+binary
+pointer
+link
+recursion
+structure
+class
+dynamic memory
+dynamic array
+linked list
+node
+stack
+queue
+polish notation
+postfix notation
+prefix notation
+binary tree
+root
+traversal
+balancing
+cluster
